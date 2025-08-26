@@ -6,10 +6,6 @@ The aim is to develop a **deep learning pipeline** for classifying Alzheimer’s
 
 The classifier predicts the stage of Alzheimer’s and provides confidence scores.  
 
-> **Note**: Due to time constraints, only **Milestone 1** and **Milestone 3** were implemented.  
-> (Milestone 2 – Grad-CAM Explainability – was not included).  
-
----
 
 ## 🧠 Dataset: Alzheimer’s Disease MRI  
 - **Classes:**  
@@ -44,10 +40,7 @@ The classifier predicts the stage of Alzheimer’s and provides confidence score
   - Reported test accuracy & loss.  
   - Generated classification report & confusion matrix.  
 
-### ❌ Milestone 2 — Explainable AI (Grad-CAM)  
-- *Not implemented in this submission.*  
-
-### ✅ Milestone 3 — Streamlit Deployment  
+### ✅ Milestone 2 — Streamlit Deployment  
 Built an **interactive web app** that allows users to:  
 - Upload an MRI image (`.jpg`, `.jpeg`, `.png`).  
 - Get predicted class + confidence scores.  

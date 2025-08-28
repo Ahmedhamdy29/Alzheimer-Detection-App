@@ -84,12 +84,7 @@ streamlit run app.ipynb
 ## 📊 Results  
 - Achieved baseline classification performance with CNN.  
 - Successfully deployed the model on Streamlit.  
-
----
-
-## 👥 Team Information  
-- Team Size: 2–3 students (as per rules).  
-- Contributions were shared fairly among members.  
+  
 
 ---
 
